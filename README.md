@@ -1,0 +1,7 @@
+# test-leak
+
+
+Access Key ID:
+AKIAIIJ4AMPH2YW263CA
+Secret Access Key:
+sGD6WAgcl38WRXNK/dKQGW4YYambkBDUXTJpBU30
